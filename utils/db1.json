@@ -1,0 +1,38 @@
+{
+  "items": [
+    {
+      "no": "1",
+      "mode": "Word of Mouth",
+      "paymentid": "P20AA001",
+      "txnid": "T20AAA002",
+      "t_value": 300,
+      "c_fee": 5,
+      "amount": 15
+    },
+    {
+      "no": "2",
+      "mode": "Listing Fee Com",
+      "paymentid": "P20AA001",
+      "txnid": "T20AAA001",
+      "t_value": 200,
+      "c_fee": 50,
+      "amount": 100
+    }
+  ],
+  "grand_total": {
+    "txnid": null,
+    "t_value": 600,
+    "c_fee": null,
+    "amount": 135
+  },
+  "payment": {
+    "txnid": null,
+    "t_value": null,
+    "c_fee": null,
+    "amount": 135.81
+  },
+  "amount": {
+    "amount": 131.69
+  },
+  "words": "One hundred and thirty five rupees"
+}

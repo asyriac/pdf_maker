@@ -1,0 +1,56 @@
+{
+  "items": [
+    {
+      "no": "1",
+      "mode": "Word of Mouth",
+      "r_id": "R20AA001",
+      "txnid": "T20AAA002",
+      "t_value": 300,
+      "c_rate": 5,
+      "g_value": 15,
+      "cgst": 1.35,
+      "sgst": 1.35,
+      "igst": null,
+      "net_amount": 17.7
+    },
+    {
+      "no": "2",
+      "mode": "Listing fee",
+      "r_id": "R20AA001",
+      "txnid": "T20AAA001",
+      "t_value": 200,
+      "c_rate": null,
+      "g_value": 200,
+      "cgst": 18,
+      "sgst": 18,
+      "igst": null,
+      "net_amount": 236
+    }
+  ],
+  "grand_total": {
+    "t_value": 500,
+    "c_rate": null,
+    "gross_value": 215,
+    "cgst": 19.35,
+    "sgst": 19.35,
+    "igst": null,
+    "net_amount": 253.7
+  },
+  "payment": {
+    "t_value": 253.7,
+    "c_rate": null,
+    "gross_value": 5.07,
+    "cgst": 0.46,
+    "sgst": 0.46,
+    "igst": null,
+    "net_amount": 5.99
+  },
+  "amount": {
+    "gross_value": 220.07,
+    "cgst": 19.81,
+    "sgst": 19.81,
+    "igst": null,
+    "net_amount": 259.69
+  },
+  "words": "Two hundred and fifty three rupees, seventy paisa"
+}
